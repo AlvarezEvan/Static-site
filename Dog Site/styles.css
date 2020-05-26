@@ -1,0 +1,88 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+    background: grey;
+    
+}
+header{
+    background-image: url(images/ws1.jpg);
+    width: 100%;
+    height: 300px;
+    padding-top: 0px;
+    font-size: 45px;
+    color: #018b8d;
+    font-weight: bold;
+}
+.container {
+width: 80%;
+margin: 0 auto;
+          
+}
+
+nav{
+  overflow: hidden;
+  background-color: #018b8d;
+width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+}
+a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 55px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.brief{
+   padding: 20px;
+    column-count: 2;
+    column-gap: 40px;
+    color: white;
+    background-color: #000000;
+}
+.title{
+    font-size: 24px;
+    padding: 0px;
+    margin: 0px;
+}
+.tiny{
+    width: 460px;
+    
+}
+.multi{
+    width: 465px;
+}
+li{
+    margin: 0px;
+    padding: 0px;
+    line-height: 30px
+}
+.facts{
+    text-align: center;
+    background-color: white;
+    height: 50px;
+    color: #008b8c;
+    padding-top: 30px;
+}
+.list{
+    column-count: 2;
+    color: #00888a;
+    background-color: #d3d3d3;
+    padding: 20px;
+    height: 950px;
+    
+}
+footer{
+    text-align: center;
+    background-color: #018b8d;
+    width: 100%;
+    height: 50px;
+    padding-top: 1px;
+    margin-bottom: 1px;
+    color: white
+}
